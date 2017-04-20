@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(33): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(35): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(36): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\tilemap.h(42): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\rafu\documents\visual studio 2015\projects\cmpm265_hw2\cmpm265_hw2\main.cpp(55): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  CMPM265_hw2.vcxproj -> C:\Users\rafu\documents\visual studio 2015\Projects\CMPM265_hw2\Debug\CMPM265_hw2.exe
+  CMPM265_hw2.vcxproj -> C:\Users\rafu\documents\visual studio 2015\Projects\CMPM265_hw2\Debug\CMPM265_hw2.pdb (Full PDB)
